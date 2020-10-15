@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l65r2tRVzjlOH57JvYb9MdCUfBxbEwnYIfrFKKnRxbBM5gsERWO2qBhLFZeW/KZ67jz2A2OhLCwGmB8A6SYvCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\SignalRServer\\SignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
